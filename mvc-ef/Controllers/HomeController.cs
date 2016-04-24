@@ -15,7 +15,7 @@ namespace MvcEfSample.Controllers
             this.dbContext = dbContext;
         }
         
-        [HttpGet("/")]
+        [HttpGet]
         public async Task<ActionResult> Index()
         {
             var articles = await dbContext.Articles.OrderByDescending(a => a.Id)
