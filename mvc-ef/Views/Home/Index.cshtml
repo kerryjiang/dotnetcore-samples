@@ -1,0 +1,10 @@
+﻿@model ArticleListViewModel
+
+<div class="row">
+    <ul class="articleList">
+        @foreach (var item in Model.Articles)
+        {
+            <li><a href="#">@item.Title</a></li>
+        }
+    </ul>
+</div>
