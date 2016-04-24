@@ -24,5 +24,10 @@ You need find the runtime config file (*.runtimeconfig.json) in the directory bi
         }
     }
     
-    
+### Referernces:
+
+1. [ASP.NET CLI Samples](https://github.com/aspnet/cli-samples)
+2. [ASP.NET Music Store](https://github.com/aspnet/MusicStore)
+3. [ASP.NET VNext Samples of Schr3da](https://github.com/Schr3da/ASP.net-vnext-samples/)
+4. [ASP.NET Core Identity Samples](https://github.com/aspnet/Identity/tree/dev/samples)
 
