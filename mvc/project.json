@@ -18,7 +18,7 @@
     "Microsoft.Extensions.Logging.Console": "1.0.0-*",
     "Microsoft.NETCore.App": {
       "type": "platform",
-      "version": "1.0.0-rc2-3002464"
+      "version": "1.0.0-rc2-*"
     }
   },
   "frameworks": {
