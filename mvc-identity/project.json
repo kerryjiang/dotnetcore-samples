@@ -32,7 +32,8 @@
       "imports": [
         "portable-net45+wp80+win8+wpa81+dnxcore50",
         "portable-net45+win8+wp8+wpa81",
-        "portable-net45+win8+wp8"
+        "portable-net45+win8+wp8",
+        "portable-net451+win8"
       ]
     }
   },
