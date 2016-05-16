@@ -38,6 +38,7 @@ namespace MvcIdentitySample
                 app.UseDeveloperExceptionPage();
             }
             
+            
             // the authentication must be configured before mvc
             app.UseIdentity();
             /*

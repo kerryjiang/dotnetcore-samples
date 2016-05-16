@@ -14,7 +14,6 @@ namespace MvcIdentitySample
                         .UseIISIntegration()
                         .UseStartup<Startup>()
                         .Build();
-
             host.Run();
         }
     }
