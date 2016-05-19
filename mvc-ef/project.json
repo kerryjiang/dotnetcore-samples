@@ -1,11 +1,10 @@
 {
   "name": "MvcEfSample",
   "version": "1.0.0-*",
-  "content": [
-    "wwwroot",
-    "Views"
-  ],
-  "compilationOptions": {
+  "publishOptions": {
+    "include": [ "wwwroot", "Views" ]
+  },
+  "buildOptions": {
     "preserveCompilationContext": true,
     "emitEntryPoint": true,
     "debugType": "portable"
