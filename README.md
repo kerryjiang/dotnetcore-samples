@@ -2,7 +2,7 @@
 
 This repository contains some workable sample projects which can be used for learning how to develop cross platform applications using .NET Core.
 
-These sammples align to the .NET CLI 1.0.0-rc2-002464.
+These sammples align to .Net Core 1.0 and .NET CLI 1.0.0-preview2-003121.
 
 
 ### Note:
